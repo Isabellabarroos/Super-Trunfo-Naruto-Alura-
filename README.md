@@ -1,2 +1,4 @@
-# Super-Trunfo-Naruto-Alura-
-Aqui eu fiz um desafio que foi dado pela Alura, para quem é fã de Naruto assim como eu, no qual para jogar você tem que escolher entre as habilidades  e o computador irá sortear outra carta e você saberá se venceu ou não . Um trabalho bem divertido de se fazer e eu resolvi colocar "soms" que deixaram o jogo ainda mais divertido.
+# Super Trunfo Naruto - Desafio aula 8
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/isabella-barros/pen/OJWWQVj](https://codepen.io/isabella-barros/pen/OJWWQVj).
+
